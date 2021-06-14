@@ -41,7 +41,7 @@ Rpi.GPIO if you need a alarm/buzzer
 4. **RESULT**
    1. This is by no means perfect, </br> but combine it with pressure sensors on the steering and we may get a production class saftety device.
    2. Demonstration</br>
-   ![The low res video ](https://github.com/mdalmas/covid19_xray_detection/blob/master/converted.mp4)
+   ![The low res video ](https://github.com/mdalmas/RpiDrowsyDriver/blob/master/Coverted.mp4)
 
 ### Using
 
