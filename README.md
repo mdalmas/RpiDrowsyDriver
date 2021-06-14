@@ -29,15 +29,15 @@ Rpi.GPIO if you need a alarm/buzzer
    ![Example 3 Facilal](https://github.com/mdalmas/RpiDrowsyDriver/blob/master/eg3.jpg)
    2.	we can then use euclidean distance to calculate the 2 vertical and 1 horizontal distance.  
 3. **Detecting Drowsiness Details**
-   1.   After getting EA
-   <code> 
+   1.   After getting EAR
+   ```
     if ear < EYE_AR_THRESH:
         COUNTER += 1			
 			if COUNTER >= EYE_AR_CONSEC_FRAMES:
 				# if the alarm is not on, turn it on
 				if not ALARM_ON:
 					ALARM_ON = True  
-    </code>
+    ```
     
   
 4. **RESULT**
